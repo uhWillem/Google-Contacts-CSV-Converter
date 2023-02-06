@@ -1,7 +1,7 @@
 # Google-Contacts-CSV-Converter
 
-This project is meant to convert any list of names, phone numbers and email to the google contact CSV format so they can be easily imported. 
-Currently the keywords it checks in excel are in dutch so if you want to use this you'll have to modify the code a bit (or the Excel file). 
+This project is meant to convert any list of names, phone numbers and email to the *google contact CSV format* so they can be easily imported. 
+Currently the keywords it checks in excel are in *dutch* so if you want to use this you'll have to modify the code a bit (or the Excel file). 
 
 ## Requirements
 *Node.js installed
