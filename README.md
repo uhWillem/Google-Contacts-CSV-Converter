@@ -4,9 +4,9 @@ This project is meant to convert any list of names, phone numbers and email to t
 Currently the keywords it checks in excel are in **dutch** so if you want to use this you'll have to modify the code a bit (or the Excel file). 
 
 ## Requirements
-*Node.js installed
-*Must add a label in \Contact_Info\labelname.txt.
-*Must add a .xlsx file in \Contact_Info\ containg first name, last name, email address and phone number.
+* Node.js installed
+* Must add a label in \Contact_Info\labelname.txt.
+* Must add a .xlsx file in \Contact_Info\ containg first name, last name, email address and phone number.
 >Examples of the .xlsx and resulting google CSV can be found in \examples\ (dummy info)
 
 
