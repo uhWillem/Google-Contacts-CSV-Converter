@@ -1,0 +1,24 @@
+Label name: Class_22_23
+Found files: labelname.txt,TEMPLATE_LIST.xlsx in Contact_Info directory
+
+FORMAT: {Index} - {Voornaam} {Familienaam} {Email} {GSM}
+
+0 - Emily Smith | example1@gmail.com | 0498 03 35 07
+1 - Michael Johnson | example2@gmail.com | 0495 12 65 47
+2 - Ashley Williams | example3@gmail.com | 0497 23 56 78
+3 - Matthew Jones | example4@gmail.com | 0493 34 67 89
+4 - Sarah Brown | example5@gmail.com | 0496 45 78 90
+5 - David Davis | example6@gmail.com | 0492 56 89 01
+6 - Jessica Garcia | example7@gmail.com | 0491 67 90 12
+7 - James Rodriguez | example8@gmail.com | 0494 78 01 23
+8 - Lauren Martinez | example9@gmail.com | 0490 89 12 34
+9 - Daniel Hernandez | example10@gmail.com | 0489 90 23 45
+10 - Rachel Lopez | example11@gmail.com | 0488 01 34 56
+11 - Andrew Gonzalez | example12@gmail.com | 0487 12 45 67
+12 - Megan Perez | example13@gmail.com | 0486 23 56 78
+13 - Nathan Anderson | example14@gmail.com | 0485 34 67 89
+14 - Elizabeth Taylor | example15@gmail.com | 0484 45 78 90
+15 - Justin Wilson | example16@gmail.com | 0483 56 89 01
+16 - Alyssa Jackson | example17@gmail.com | 0482 67 90 12
+17 - Christopher Clark | example18@gmail.com | 0481 78 01 23
+18 - Hannah Lewis | example19@gmail.com | 0494 33 97 00
