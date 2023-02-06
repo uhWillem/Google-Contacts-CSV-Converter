@@ -4,8 +4,8 @@ Convert your list of names, phone numbers, and email addresses to the Google Con
 This project is designed to work with an Excel file and has the pre-defined keywords such as firstname, last name... in Dutch. However, the code can be modified to suit your needs.
 
 ## Requirements
-* Node.js installed
-* Label added in the Contact_Info/labelname.txt file
+* Must have Node.js installed
+* Must have a Label added in the Contact_Info/labelname.txt file
 * .xlsx file containing first name, last name, email address, and phone number added in the Contact_Info/ folder
 >Refer to the examples/ directory for sample .xlsx and resulting Google CSV files (dummy information provided).
 
