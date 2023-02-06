@@ -18,3 +18,5 @@ This project is designed to work with an Excel file and has the pre-defined keyw
 4. The output and log files will be generated in the output/ folder assuming no errors were thrown.
 5. Check the log file for any errors or missing data 
 > The csv file will generate regardless of missing data if you want to leave any of the information blank.
+
+> I may make this more user friendly in the future, but for now this is a quick and dirty solution to a problem I had.
