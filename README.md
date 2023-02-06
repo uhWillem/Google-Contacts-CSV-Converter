@@ -3,14 +3,14 @@
 This project is meant to convert any list of names, phone numbers and email to the google contact CSV format so they can be easily imported. 
 Currently the keywords it checks in excel are in dutch so if you want to use this you'll have to modify the code a bit (or the Excel file). 
 
-##Requirements
+## Requirements
 *Node.js installed
 *Must add a label in \Contact_Info\labelname.txt.
 *Must add a .xlsx file in \Contact_Info\ containg first name, last name, email address and phone number.
 >Examples of the .xlsx and resulting google CSV can be found in \examples\ (dummy info)
 
 
-###Usage
+### Usage
 1. Begin by adding your .xlsx file in the Contact_Info 
 2. Add a label in the labelname.txt folder, this will automatically create a label in google contacts with these users. 
 3. Open cmd in the project's root directory and type `npm install` to install the dependencies required for this project
