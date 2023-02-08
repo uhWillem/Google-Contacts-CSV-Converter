@@ -1,7 +1,7 @@
 Label name: Class_22_23
 Found files: labelname.txt,TEMPLATE_LIST.xlsx in Contact_Info directory
 
-FORMAT: {Index} - {Voornaam} {Familienaam} {Email} {GSM}
+FORMAT: {Index} - {Voornaam} {Familienaam} | {Email} | {GSM}
 
 0 - Emily Smith | example1@gmail.com | 0498 03 35 07
 1 - Michael Johnson | example2@gmail.com | 0495 12 65 47

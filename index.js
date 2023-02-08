@@ -70,7 +70,7 @@ async function main() {
             // google contact csv format
             output.push("Name,Given Name,Additional Name,Family Name,Yomi Name,Given Name Yomi,Additional Name Yomi,Family Name Yomi,Name Prefix,Name Suffix,Initials,Nickname,Short Name,Maiden Name,Birthday,Gender,Location,Billing Information,Directory Server,Mileage,Occupation,Hobby,Sensitivity,Priority,Subject,Notes,Language,Photo,Group Membership,E-mail 1 - Type,E-mail 1 - Value,E-mail 2 - Type,E-mail 2 - Value,Phone 1 - Type,Phone 1 - Value,Website 1 - Type,Website 1 - Value")
 
-            logs.push("FORMAT: {Index} - {Voornaam} {Familienaam} {Email} {GSM}")
+            logs.push("FORMAT: {Index} - {Voornaam} {Familienaam} | {Email} | {GSM}")
             addNewLine();
 
             // creating the output array with the final google csv data
